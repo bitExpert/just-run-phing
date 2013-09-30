@@ -1,7 +1,7 @@
 Just Run Phing
 ================
 
-Inspired by Beau Simensen`s work on just-run-phpunit this project should allow
+Inspired by Beau Simensens work on just-run-phpunit this project should allow
 PHP developers to just type naked `phing` wherever they are but actually
 executing `vendor/bin/phing` for projects that have Phing required via Composer
 and falling back to a globally installed version of Phing if not. Kudos to Beau
